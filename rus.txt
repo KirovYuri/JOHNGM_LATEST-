@@ -1,0 +1,5 @@
+C:\Users\client\Desktop\GAMEMODES\JOHNGM\gamemodes\GVRP.pwn(116140) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\client\Desktop\GAMEMODES\JOHNGM\gamemodes\GVRP.pwn(22363) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "CanPlayerVehAnims"
+C:\Users\client\Desktop\GAMEMODES\JOHNGM\gamemodes\GVRP.pwn(22354) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "IsCLowrider"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
